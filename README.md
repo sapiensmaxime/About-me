@@ -1,3 +1,3 @@
-About me
+# About me
 
-# My first GitHub page
+## My first GitHub page
